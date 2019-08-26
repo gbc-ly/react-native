@@ -1,1 +1,1 @@
-npm install --save react-native-sf-swiper
+npm install --save react-native-sf-swiper  //°²×°react-native-sf-swiperÒÀÀµ
